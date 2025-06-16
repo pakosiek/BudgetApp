@@ -1,0 +1,14 @@
+C:\programowanie\cv\BudgetApp\BudgetApp.Model\bin\Debug\net9.0\BudgetApp.Model.deps.json
+C:\programowanie\cv\BudgetApp\BudgetApp.Model\bin\Debug\net9.0\BudgetApp.Model.runtimeconfig.json
+C:\programowanie\cv\BudgetApp\BudgetApp.Model\bin\Debug\net9.0\BudgetApp.Model.dll
+C:\programowanie\cv\BudgetApp\BudgetApp.Model\bin\Debug\net9.0\BudgetApp.Model.pdb
+C:\programowanie\cv\BudgetApp\BudgetApp.Model\obj\Debug\net9.0\BudgetApp.Model.csproj.AssemblyReference.cache
+C:\programowanie\cv\BudgetApp\BudgetApp.Model\obj\Debug\net9.0\BudgetApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\programowanie\cv\BudgetApp\BudgetApp.Model\obj\Debug\net9.0\BudgetApp.Model.AssemblyInfoInputs.cache
+C:\programowanie\cv\BudgetApp\BudgetApp.Model\obj\Debug\net9.0\BudgetApp.Model.AssemblyInfo.cs
+C:\programowanie\cv\BudgetApp\BudgetApp.Model\obj\Debug\net9.0\BudgetApp.Model.csproj.CoreCompileInputs.cache
+C:\programowanie\cv\BudgetApp\BudgetApp.Model\obj\Debug\net9.0\BudgetApp.Model.dll
+C:\programowanie\cv\BudgetApp\BudgetApp.Model\obj\Debug\net9.0\refint\BudgetApp.Model.dll
+C:\programowanie\cv\BudgetApp\BudgetApp.Model\obj\Debug\net9.0\BudgetApp.Model.pdb
+C:\programowanie\cv\BudgetApp\BudgetApp.Model\obj\Debug\net9.0\BudgetApp.Model.genruntimeconfig.cache
+C:\programowanie\cv\BudgetApp\BudgetApp.Model\obj\Debug\net9.0\ref\BudgetApp.Model.dll
